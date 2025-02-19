@@ -32,11 +32,20 @@ a{
     text-decoration: none;
     color: rgb(85, 85, 107);
     padding-left: 5px;
-    
 }
 
-.vl{
-    height: 20px;
-    width: 30px;
-    color: rgb(15, 14, 14);
+a:hover{
+    color: rgb(41, 41, 145);
 }
+
+.nav{
+    height: 50px;
+    width: 100%;
+    background-color: beige;
+}
+.logo img{
+    height: 50px;
+    width: 300px;
+    padding-left: 3px;
+}
+
