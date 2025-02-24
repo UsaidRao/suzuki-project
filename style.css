@@ -24,8 +24,13 @@ body{
     width: 20px;
     margin-left: 10px;
 }
+.up-nav img{
+    height: 15px;
+    width: 15px;
+    margin-left: 2px;
+}
 
-  .up-nav{
+.up-nav{
     margin-top: 5px;
     
 }
