@@ -1,15 +1,16 @@
 body{
-    height: 100%;
-    width: 100%;
-    background-color: black;
+    margin: 0;
+    padding: 0;
+    background-color:rgba(239,239,239,255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .fix{
     width: 100%;
     height: 30px;
-    background-color:rgb(193, 187, 187);
+    background-color: rgba(239,239,239,255);
     display: flex;
     justify-content: space-between;
+    padding: 0px;
 
 }
 
@@ -41,7 +42,7 @@ a:hover{
 .nav{
     height: 50px;
     width: 100%;
-    background-color: beige;
+    background-color:rgba(255,255,255,255);
     display: flex;
     justify-content: space-between;
 }
