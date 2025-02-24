@@ -25,14 +25,16 @@ body{
     margin-left: 10px;
 }
 
-.up-nav{
+  .up-nav{
     margin-top: 5px;
-
+    
 }
 a{
     text-decoration: none;
     color: rgb(85, 85, 107);
     padding-left: 10px;
+    border-right: 1px solid #a7aca7;
+    padding: 0px 15px;
 }
 
 a:hover{
