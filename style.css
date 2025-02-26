@@ -32,6 +32,8 @@ body{
 
 .up-nav{
     margin-top: 5px;
+    color: rgb(141, 136, 136);
+    text-decoration: none;
     
 }
 a{
@@ -68,23 +70,3 @@ a:hover{
  .nav a{
     padding-left: 20px;
 }
-
-/* .carousel {
-    width: 100%;
-    height: 550px;
-    overflow: hidden;
-    
-}
-
-.carousel-container {
-    display: flex;
-    scroll-snap-type: x mandatory;
-    overflow-x: auto;
-    scroll-behavior: smooth;
-}
-
-.carousel-container img {
-    width: 100%;
-    object-fit: fill;
-    scroll-snap-align: center;
-} */
