@@ -75,3 +75,9 @@ a:hover{
     height: 560px;
     width: 100%;
 }
+.dropdown{
+    display: inline-block;
+    color: white;
+    background-color: red;
+
+}
