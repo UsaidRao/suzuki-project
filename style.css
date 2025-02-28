@@ -86,7 +86,10 @@ a:hover{
     color: rgb(85, 85, 107);
     text-decoration: none;
     border-right: 1px solid #a7aca7;
+    padding: 0px 15px;
+    
 }
+
 .mydropdown:hover{
     color:rgb(50, 50, 116) ;
 }
