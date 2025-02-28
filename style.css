@@ -78,6 +78,16 @@ a:hover{
 .dropdown{
     display: inline-block;
     color: white;
-    background-color: red;
-
+    
 }
+.mydropdown{
+    border: 0px;
+    background-color:white ;
+    color: rgb(85, 85, 107);
+    text-decoration: none;
+    border-right: 1px solid #a7aca7;
+}
+.mydropdown:hover{
+    color:rgb(50, 50, 116) ;
+}
+.dropdown:hover .dropdown-menu {display: block;}
