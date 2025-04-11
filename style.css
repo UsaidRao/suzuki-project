@@ -92,11 +92,11 @@ a:hover{
 }
 
 .mydropdown:hover{
-    color:rgb(50, 50, 116) ;
+    color:rgb(41, 41, 145) ;
 }
 .dropdown:hover .dropdown-menu {display: block;}
 .arrow {
-    border:1px solid  rgb(85, 85, 107);
+    border: solid  rgb(141, 141, 162);
     border-width: 0 3px 3px 0;
     display: inline-block;
     padding: 2px;
