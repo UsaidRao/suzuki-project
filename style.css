@@ -106,3 +106,9 @@ a:hover{
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
   }
+
+  .lids{
+    width: 20px;
+    height: 10px;
+    display: inline-block;
+  }
